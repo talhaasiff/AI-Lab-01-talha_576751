@@ -24,12 +24,3 @@ A programmatic visual composition generated for Design Lab 01. This project uses
 3. Click the **"Run cell"** (Play) button on the code block.
 4. The static fractal tree will render immediately in the output section below the cell.
 
-### Visual Outputs
-
-**1. Programmatic Fractal Output**
-*(Replace `fractal_tree_preview.png` with the exact filename of your uploaded fractal image)*
-![Fractal Tree](fractal_tree_preview.png)
-
-**2. Apparel Mockup Application**
-*(Replace `shirt_mockup.png` with the exact filename of your uploaded shirt image)*
-![Dark Maroon Shirt Mockup](shirt_mockup.png)
